@@ -518,8 +518,7 @@ const MARS497 = new Discord.Client();
 const MARS498 = new Discord.Client();
 const MARS499 = new Discord.Client();
 const MARS500 = new Discord.Client();
-/// by mars
-MARS.login("");
+/// by NzkwMjUyODg4NDAwMTk5Njkw.X996hw -ArW8vW4PtOxhruTGO-DMXw3xau");
 MARS2.login("");
 MARS3.login("");
 MARS4.login("");
